@@ -1,0 +1,67 @@
+body{
+    margin: 0 0;
+    background-color: goldenrod;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+table{
+    width: 70%;
+    text-align: center;
+    color: rgb(52, 52, 52);
+    border: 2px solid rgb(85, 85, 85);
+    padding: 10px;
+    margin: 5px auto;
+}
+
+table thead th{
+    border: 2px solid rgb(85, 85, 85);
+    padding: 2.5px;
+}
+
+table tbody td{
+    border-bottom: 2px solid rgb(85, 85, 85);
+    padding: 5px;
+}
+
+table a{
+    color: rgb(0, 89, 153);
+    text-decoration: none;
+    cursor: pointer;
+    transition: all 0.9s ease;
+    transition-timing-function: cubic-bezier(.16,.85,1,.55);
+}
+
+table a:hover{
+    color: rgb(13, 0, 255);
+    text-decoration:underline;
+    
+}
+
+form{
+    margin: 10px;
+}
+
+.form-group{
+    margin: 10px 0px;
+}
+
+label{
+    display: inline-block;
+    width: 125px;
+    margin: 5px;
+}
+
+input{
+    border-color: aqua;
+}
+
+button{
+    color: rgb(47, 47, 47);
+    background-color: rgb(255, 222, 123);
+    transition: all 0.5s ease;
+}
+
+button:hover{
+    background-color: rgb(252, 250, 245);
+}

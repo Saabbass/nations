@@ -179,7 +179,7 @@ INSERT INTO CountryCapital (Country, Capital) VALUES
   ('Tanzania', 'Dodoma'),
   ('Thailand', 'Bangkok'),
   ('Togo', 'Lomé'),
-  ('Tonga', 'Nukuʻalofa'),
+  ('Tonga', 'Nuku alofa'),
   ('Trinidad and Tobago', 'Port of Spain'),
   ('Tunisia', 'Tunis'),
   ('Turkey', 'Ankara'),
